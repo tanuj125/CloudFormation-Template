@@ -16,7 +16,7 @@
 
 #=> Now we will create a CloudFormation template of whole Existing Infrastructure by using CloudFormer tool by following below link.
 
-#https://www.digitalocean.com/community/tutorials/how-to-configure-a-redis-cluster-on-ubuntu-14-04
+#http://www.tothenew.com/blog/using-aws-cloudformer-to-create-template-of-existing-infrastructure/
 
 #=> Now at the end you will get CloudFormation Template saved in S3 bucket. 
 
